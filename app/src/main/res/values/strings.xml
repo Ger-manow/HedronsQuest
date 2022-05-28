@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HedronsQuest</string>
+    <string name="password">Password</string>
+    <string name="button">Button</string>
+    <string name="logo_do_jogo_marca">Logo do jogo/marca</string>
+    <string name="create_account">Create Account</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="gallery">Gallery</string>
+    <string name="forum">Forum</string>
+    <string name="support">Support</string>
+    <string name="dev_log">Dev log</string>
+    <string name="wanna_support_me_to_continue_working_on_it_you_can_help_me_with_a_coin">Wanna support me to continue working on it? You can help me with a coin!</string>
+    <string name="donation">Donation</string>
+    <string name="feedback">Feedback</string>
+    <string name="have_something_to_say_send_me_and_e_mail_i_will_reply_asap">Have something to say? Send me and E-mail, I will reply ASAP.</string>
+</resources>

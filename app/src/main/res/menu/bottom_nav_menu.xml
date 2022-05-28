@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_devLog"
+        android:icon="@drawable/ic_baseline_videogame_asset_24"
+        android:title="@string/dev_log" />
+
+    <item
+        android:id="@+id/navigation_gallery"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="@string/gallery" />
+
+    <item
+        android:id="@+id/navigation_forum"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="@string/forum" />
+
+    <item
+        android:id="@+id/navigation_support"
+        android:icon="@drawable/ic_baseline_emoji_emotions_24"
+        android:title="@string/support" />
+
+</menu>
